@@ -10,7 +10,7 @@
 
     <properties>
         <!-- CQ Instance properties -->
-        <cq.server>http://localhost:4502</cq.server>
+        <cq.server>http://localhost:4503</cq.server>
         <slingUrlSuffix>/system/console/install</slingUrlSuffix>
         <username>admin</username>
         <password>admin</password>
